@@ -13,7 +13,7 @@ COS 106 term project. Multi-page site built with HTML, CSS and JavaScript.
 - `css/style.css` - external stylesheet (responsive, flexbox and grid, transitions and animations)
 - `js/` - `main.js` (shared), `planner.js`, `contact.js`
 - `images/`, `media/` - pictures and video
-
+ 
 ## Before you submit
 1. Replace `images/profile.svg` with your photograph (update the `src` in `index.html` and `about.html`, e.g. `images/profile.jpg`).
 2. Replace `media/walkthrough.mp4` with your own video, or delete the section.
